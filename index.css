@@ -1,0 +1,15 @@
+
+
+body {
+  color: #3D3144;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1,h2,.byline {
+  color: #86080B;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.byline {
+  padding-bottom: 25px;
+}
